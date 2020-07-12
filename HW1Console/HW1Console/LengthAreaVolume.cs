@@ -25,7 +25,7 @@ namespace HomeWork1Console
         public void Volume(double r)
         {
             var v = 4/3 * pi * r * r * r;
-            Console.WriteLine($"Volume = {v}");
+            Console.WriteLine($"Volume = {v:F3}");
         }
     }
 }

@@ -4,3 +4,4 @@ D:\Web\Training\SoftServe\HomeWork\HW1\HW1Console\HW1Console\bin\Debug\HW1Consol
 D:\Web\Training\SoftServe\HomeWork\HW1\HW1Console\HW1Console\bin\Debug\HW1Console.pdb
 D:\Web\Training\SoftServe\HomeWork\HW1\HW1Console\HW1Console\obj\Debug\HW1Console.exe
 D:\Web\Training\SoftServe\HomeWork\HW1\HW1Console\HW1Console\obj\Debug\HW1Console.pdb
+D:\Web\Training\SoftServe\HomeWork\HW1\HW1Console\HW1Console\obj\Debug\HW1Console.csprojAssemblyReference.cache
